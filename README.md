@@ -1,4 +1,4 @@
-#Movie Rating Analysis
+# Movie Rating Analysis
 This repository contains a Jupyter notebook that analyzes movie ratings using the Pandas library. The primary goal is to explore a dataset containing movie ratings and perform data cleaning, statistical analysis, and visualization to gain insights into user preferences.
 
 Dataset
